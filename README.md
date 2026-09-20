@@ -118,4 +118,6 @@ Delete this file to reset the bot's memory.
 
 ## License
 
-MIT License. Use at your own risk.
+CC BY-SA 4.0 - Creative Commons Attribution-ShareAlike 4.0 International Public License
+
+See [LICENSE](LICENSE) for full text.
