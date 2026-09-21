@@ -1,0 +1,11 @@
+# Secrets
+rlk.txt
+*.token
+
+# State files
+*_state.json
+
+# Python cache
+__pycache__/
+*.pyc
+.env
